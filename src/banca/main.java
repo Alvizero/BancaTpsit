@@ -1,7 +1,7 @@
 /*
  *@author  alvise sacconato
  *@author2 alessandro zago
- *@version 1.0
+ *@version 1.1
  *@description tramite questo programma si puo' gestire una banca monoutente con opzioni di prelievo, deposito,
  *			   investimento con diversi tipi di durata ovvero: breve media e lunga e con diversi tipi di rischio,
  *			   ovvero: basso rischio/guadagno, medio rischio/guadagno e alto rischio/guadagno, permette di avanzare di tempo (mesi),
